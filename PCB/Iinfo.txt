@@ -1,0 +1,2 @@
+Take the C128toSCART_V2_SMD.ZIP file and order the PCBs by your PCB manufaturer.
+I ordered it be www.jlcpcb.com. The C128toSCART_V2_SMD.ZIP contains the gerber files and this is all you need.
