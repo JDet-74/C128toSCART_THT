@@ -32,7 +32,7 @@
 
 <p style="background-color: yellow;"><strong>If you want the programmed EEPLD, a self-built&nbsp;set or a CNC milled housing please contact me.</strong></p>
 
-<p style="color: blue; background-color: red;">Mail to: tilo.dettling[at]gmail.com</p>
+<p style="color: blue; background-color: red;"><strong>Mail to: tilo.dettling[at]gmail.com</strong></p>
 
 <p>Now some pictures of the project.&nbsp;Enjoy!</p>
 
