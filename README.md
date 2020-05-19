@@ -1,6 +1,5 @@
 <h2>C128toSCART_THT</h2>
 
-<hr />
 <p>This is a project to connect a&nbsp;Commodore C128 8-bit computer to a display with a SCART input device.</p>
 
 <p>Here, you can find some documents to build the video adapter PCB which I developed.</p>
