@@ -30,7 +30,7 @@
 
 <p>In the following directories you will find the necessary files for the PCB, the soldering, the part list, the housing and the switch-extension.</p>
 
-<p>If you want the programmed EEPLD, a self-built&nbsp;set or a CNC milled housing please contact me. tilo.dettling[at]gmail.com</p>
+<p><strong>If you want the programmed EEPLD, a self-built&nbsp;set or a CNC milled housing please contact me. <big>tilo.dettling[at]gmail.com</big></strong></p>
 
 <p>Now some pictures of the project.&nbsp;Enjoy!</p>
 
