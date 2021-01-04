@@ -31,7 +31,7 @@
 <p>In the following directories you will find the necessary files for the PCB, the soldering, the part list, the housing and the switch-extension.</p>
 
 ## Contact
-For any questions (technical or experience) or puchase a CNC milled housing, please use the issue tracking system of github.
+For any questions (technical / experience), please use the issue tracking system of github.
 
 ## Pictures
 <p>Now some pictures of the project.&nbsp;Enjoy!</p>
