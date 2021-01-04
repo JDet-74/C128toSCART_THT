@@ -33,8 +33,7 @@
 ## Contact
 For any questions (technical or experience) or puchase a CNC milled housing, please use the issue tracking system of github.
 
-<p style="color: blue; background-color: red;"><strong>Mail to: kernelpanic_74[at]yahoo.de</strong></p>
-
+## Pictures
 <p>Now some pictures of the project.&nbsp;Enjoy!</p>
 
 <hr />
