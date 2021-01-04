@@ -30,7 +30,8 @@
 
 <p>In the following directories you will find the necessary files for the PCB, the soldering, the part list, the housing and the switch-extension.</p>
 
-<p style="background-color: yellow;"><strong>If you want the programmed EEPLD, a self-built&nbsp;set or a CNC milled housing please contact me.</strong></p>
+## Contact
+For any questions (technical or experience) or puchase a CNC milled housing, please use the issue tracking system of github.
 
 <p style="color: blue; background-color: red;"><strong>Mail to: kernelpanic_74[at]yahoo.de</strong></p>
 
